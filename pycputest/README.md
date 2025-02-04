@@ -27,13 +27,4 @@ This code was developed while I was playing with LM Studio. The idea for a CPU s
 1. Clone this repository using your preferred method (e.g. `git clone https://github.com/MingFei2001/pycputest.git`)
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Install dependencies by running `pip install -r requirements.txt`.
-4. Run the script by typing `python test.py`.
-
-## Usage
-To use PycpuTest:
-1. Execute the script using `python test.py`.
-2. Monitor the CPU utilization and system resources during execution.
-3. Good luck 🤞!!
-
-## License
-This project is licensed under MIT License.
+4. Run the script by typing `python test.py`. (Good luck 🤞!!)

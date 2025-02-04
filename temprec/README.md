@@ -42,6 +42,3 @@ python3 ./temprec.py
 # enter the following in the terminal
 deactivate
 ```
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
